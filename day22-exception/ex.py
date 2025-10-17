@@ -38,3 +38,4 @@ else:
 finally:
     print('program completed')
 
+# Exception handling
