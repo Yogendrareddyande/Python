@@ -8,9 +8,9 @@
 #     print(text)
 
 
-# import os
-# import time
-
+import os
+import time
+import datetime
 # '''
 # c:\\users\\user\\oneDrive\\Desktop\\
 # '''
@@ -57,4 +57,5 @@
 # os.mkdir('TEST')
 
 # os.rename('TEST','DEMO')
+print(datetime.date.today())
 
