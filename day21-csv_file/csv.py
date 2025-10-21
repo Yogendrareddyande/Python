@@ -6,8 +6,8 @@ import os
 
 
 
-# os.chdir('\\Users\\yogi\\OneDrive\\Desktop\\python')
-# print(os.getcwd())
+os.chdir('\\Users\\yogi\\OneDrive\\Desktop\\python')
+print(os.getcwd())
 
 
 # Always use the absolute path to the file
