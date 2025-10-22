@@ -6,6 +6,8 @@ class rectangle:
     def area(self):
         print(self.l*self.b)
     @staticmethod
+
+    
     def parimeter(length,breath):
         print(2*length*breath)
 
